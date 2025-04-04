@@ -209,3 +209,5 @@ rails server
 # 6. Start job workers (separate terminal)
 rake jobs:work
 ```
+
+# PR Merge: 2026-07-23 05:11:58
